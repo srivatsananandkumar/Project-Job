@@ -1,0 +1,166 @@
+.profile-container-43 {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .profile-header-43 {
+    display: flex;
+    align-items: center;
+  }
+  
+  .profile-image-43 {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  
+  .profile-info-43 {
+    flex-grow: 1;
+  }
+  
+  .profile-name-43 {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  .profile-title-43 {
+    font-size: 18px;
+    color: #666;
+    margin: 5px 0 0 0;
+  }
+  
+  .profile-details-43 {
+    margin-top: 20px;
+  }
+  
+  .profile-section-43 {
+    margin-bottom: 20px;
+  }
+  
+  .profile-section-title-43 {
+    font-size: 20px;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .profile-section-content-43 {
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .profile-skills-43 {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .profile-skill-43 {
+    background-color: #e0e0e0;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 5px;
+  }
+  
+  .profile-experience-43,
+  .profile-education-43 {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .profile-experience-title-43,
+  .profile-education-degree-43 {
+    font-size: 18px;
+    margin: 0;
+  }
+  
+  .profile-experience-company-43,
+  .profile-education-institution-43 {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .profile-experience-duration-43,
+  .profile-education-duration-43 {
+    font-size: 14px;
+    color: #999;
+  }
+  
+  .profile-experience-description-43 {
+    font-size: 16px;
+    color: #333;
+  }
+
+  .header-profile-43{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: white;
+  }
+  .header-profile-43 nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    margin-right: 700px;
+    padding: 0;
+  }
+  .logo-profile-43{
+    font-size: 24px;
+    font-weight: bold;
+  }
+  .logo-profile-43 span {
+    color: red;
+  }
+  .header-profile-43 nav a {
+    text-decoration: none;
+    color: black;
+  }
+
+
+
+  @media (max-width: 768px) {
+    .profile-container-43 {
+      width: 95%;
+      padding: 10px;
+    }
+  
+    .profile-header-43 {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .profile-image-43 {
+      width: 120px;
+      height: 120px;
+      margin: 0 0 10px 0;
+    }
+  
+    .profile-info-43 {
+      text-align: center;
+    }
+  
+    .profile-name-43 {
+      font-size: 20px;
+    }
+  
+    .profile-title-43 {
+      font-size: 16px;
+    }
+
+    .header-profile-43 nav ul {
+      list-style: none;
+      display: flex;
+      gap: 20px;
+      margin-right: 250px;
+      padding: 0;
+    }
+  }
+  

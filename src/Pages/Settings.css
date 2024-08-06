@@ -1,0 +1,62 @@
+.settings-container-43 {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .settings-title-43 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .settings-section-43 {
+    margin-bottom: 20px;
+  }
+  
+  .settings-section-title-43 {
+    font-size: 20px;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .settings-item-43 {
+    margin-bottom: 15px;
+  }
+  
+  .settings-label-43 {
+    display: block;
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  .settings-input-43 {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .settings-save-button-43 {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .settings-save-button-43:hover {
+    background-color: #0056b3;
+  }
+  
+  .settings-checkbox-43 {
+    width: 20px;
+    height: 20px;
+  }
+  
